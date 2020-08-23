@@ -1,4 +1,4 @@
-# Tetris game in Excel VBA
+# Tetris Game in Excel VBA
 
 This is a version of the game Tetris I wrote in Excel using VBA.
 
